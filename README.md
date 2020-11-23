@@ -8,3 +8,5 @@ What are Package managers and how to correctly use them. How Go modules 1.11 can
 Have you heard about WebAssembly? It’s a binary instruction format that is designed as a portable target for compilation of high-level languages enabling deployment on the web for client and server applications. In this presentation, we will briefly take a look at the history of the Internet, the reasons why JavaScript has become so fast and whether WebAssembly can replace it. Introduce WASM technology itself and its predecessors. And of course, we’ll talk about the possibilities of using it in Go.
 - ### [Understanding ownership & lifetime](https://github.com/ipriver/talks/blob/master/rust_ol.pptx) 
 Ownership and lifetime are the unique features of Rust programming language. The idea of this talk to give an overview of these terms and help to understand the ideas behind them.
+- ### [Github Actions: walkthrough](https://github.com/ipriver/talks/blob/master/rust_ol.pptx)
+Overview to quickly get started using internal github CI.
