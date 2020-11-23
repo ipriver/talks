@@ -10,3 +10,5 @@ Have you heard about WebAssembly? It’s a binary instruction format that is des
 Ownership and lifetime are the unique features of Rust programming language. The idea of this talk to give an overview of these terms and help to understand the ideas behind them.
 - ### [Github Actions: walkthrough](https://github.com/ipriver/talks/blob/master/rust_ol.pptx)
 Overview to quickly get started using internal github CI.
+- ### [GCP: compute](https://github.com/ipriver/talks/blob/master/gcp-compute.pptx)
+Quick look at the Google Cloud Platform compute services.
